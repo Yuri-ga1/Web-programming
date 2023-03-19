@@ -2,32 +2,35 @@
 <html lang='ru'>
 
 <head>
-    <style>
-        body{
-            margin: 0px;
-            padding: 0px;
-        }
-        html,
-        body,
-        .align{
-            height: 100%;
-        }
-        .align{
-           margin-left: 20%;
-           margin-right: 25%;
-           border-left: 2px solid plum;
-           border-right: 2px solid plum;
-           background-color: aliceblue;
-        }
-        .form{
-            padding-top: 20%;
-            text-align: center;
-        }
-      .admin{
-        margin-left: 92%;
-        padding-top: 2%;
-      }
-    </style>
+  <style>
+    body{
+      margin: 0px;
+      padding: 0px;
+    }
+
+    html,
+    body,
+    .align{
+      height: 100%;
+    }
+    .align{
+      margin-left: 20%;
+      margin-right: 25%;
+      border-left: 2px solid plum;
+      border-right: 2px solid plum;
+      background-color: aliceblue;
+    }
+
+    .form{
+      padding-top: 20%;
+      text-align: center;
+    }
+
+    .admin{
+      margin-left: 92%;
+      padding-top: 2%;
+    }
+  </style>
 </head>
 
 <body>
