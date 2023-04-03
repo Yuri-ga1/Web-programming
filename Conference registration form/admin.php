@@ -42,9 +42,6 @@
       $lenght++;
     }
     echo "<p><button type=\"submit\">Delete</button></p></form></div></div>";
-    //echo "</form>";
-		//echo "</div>";
-    //echo "</div>";
 
 
 		$flag=false;
