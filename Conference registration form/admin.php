@@ -41,8 +41,11 @@
       $i++;
       $lenght++;
     }
-    echo "<p><button type=\"submit\">Delete</button></p></form></div></div>";
+    echo "<p><button type=\"submit\">Delete</button></p></form>";
 
+    echo "<form action=\"index.php\" method=\"post\">";
+    echo "<button type=\"submit\">Back</button></form>";
+    echo "</div></div>";
 
 		$flag=false;
 		for($i=0; $i<$lenght; $i++){
